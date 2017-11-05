@@ -101,7 +101,8 @@ header a:nth-child(3){
 }
 .background{
     overflow: hidden;
-    height: 27.775rem;
+    height: 27.75rem;
+    background: #fd1501;
 }
 .zg-main1{
     background: url(../images/main1.jpg) no-repeat center;
